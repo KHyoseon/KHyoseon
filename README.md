@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
+### 경북대학교 김효선의 Github 공간입니다✨✨
 
-<!--
-**KHyoseon/KHyoseon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br/>
+ 
+## 📢 I'm Curious About...
+저는 **안드로이드**, **iOS**, **프론트엔드** 등 다양한 분야에 관심이 많습니다.  
+현재은 프론트엔드와 백엔드를 위주로 공부하고 있습니다.
 
-Here are some ideas to get you started:
+![굿](https://file.mk.co.kr/meet/neds/2015/09/image_readtop_2015_891935_14423221542127136.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/>
+ 
+ ## 🔎 My Github Statics
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHyoseon&show_icons=true&locale=kr&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHyoseon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--show_icons=true&title_color=F0FFFF&text_color=F0FFFF&icon_color=00CED1&bg_color=00CED1,7FFFD4,00BFFF,4169E1-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmadplay)](http://hits.seeyoufarm.com)
