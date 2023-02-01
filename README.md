@@ -6,6 +6,8 @@
  
 ## 📢 I'm Curious About...
 저는 **안드로이드**, **iOS**, **백엔드** 등 다양한 분야에 관심이 많습니다.
+배운 것을 노션과 블로그에 정리해두고 있습니다.
+Blog: https://yamyam-spaghetti.tistory.com/
 
 
  <br/>
