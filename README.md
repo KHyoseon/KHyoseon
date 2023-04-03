@@ -1,18 +1,9 @@
-# Hi there 👋
-경북대학교 컴퓨터학부에 재학 중인 응애 개발자👶🏻  
-천리 길 가기 위한 한걸음을 지금 막 떼고 있답니다!👩🏻‍🦯👩🏻‍🦯
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,C,Python)](https://github.com/KHyoseon)
 
- <br/>
- 
-## 📢 I'm Curious About...
-저는 **안드로이드**, **iOS**, **백엔드** 등 다양한 분야에 관심이 많습니다.
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,Spring,MySQL)](https://github.com/kijepark)
 
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dokdo-guard&repo=moyeora-dokdo)](https://github.com/kijepark/adserver-tutorial)
 
-배운 것을 노션과 블로그에 정리해두고 있습니다.
-Blog: https://yamyam-spaghetti.tistory.com/
-
-
- <br/>
  
  ## 🔎 My Github Statics
  
