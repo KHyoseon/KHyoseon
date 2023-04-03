@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Hyoseon-Kim&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=Hyoseon-Kim&fontSize=50&animation=twinkling)
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,MySQL)](https://github.com/KHyoseon)
 
