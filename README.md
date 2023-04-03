@@ -3,8 +3,8 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,C,Python,Javascript)](https://github.com/KHyoseon)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Frameworks&badges=Spring,JPA,MySQL,MongoDB,AndroidStudio,Django)](https://github.com/KHyoseon)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dokdo-guard&repo=moyeora-dokdo)](https://github.com/dokdo-guard/moyeora-dokdo)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=pjuju&repo=ssafy-MusicDiary)](https://github.com/pjuju/ssafy-MusicDiary)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=dokdo-guard&repo=moyeora-dokdo)](https://github.com/KHyoseon/moyeora-dokdo)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=pjuju&repo=ssafy-MusicDiary)](https://github.com/KHyoseon/ssafy-MusicDiary)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=KHyoseon&repo=OneDay_OneAlgorithm)](https://github.com/KHyoseon/OneDay_OneAlgorithm)
  
  ## 🔎 My Github Statics
