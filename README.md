@@ -1,7 +1,7 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,JPA)](https://github.com/KHyoseon)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,MySQL)](https://github.com/KHyoseon)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,C,Python)](https://github.com/KHyoseon)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Frameworks&badges=Spring,JPA,MySQL,MongoDB,Django)](https://github.com/KHyoseon)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,C,Python,Javascript)](https://github.com/KHyoseon)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Frameworks&badges=Spring,JPA,MySQL,MongoDB,Android Studio,Django)](https://github.com/KHyoseon)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=dokdo-guard&repo=moyeora-dokdo)](https://github.com/dokdo-guard/moyeora-dokdo)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=pjuju&repo=ssafy-MusicDiary)](https://github.com/pjuju/ssafy-MusicDiary)
